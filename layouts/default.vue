@@ -14,6 +14,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+  color: #323232;
 }
 
 *,
@@ -25,6 +26,7 @@ html {
 
 ul {
   list-style: none;
+  padding: 0;
 }
 
 a,
@@ -34,11 +36,6 @@ a:active,
 a:hover {
   text-decoration: none;
   color: #999;
-}
-
-.root {
-  width: 100%;
-  min-width: 1280px;
 }
 
 .clear-fix {

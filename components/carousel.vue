@@ -14,7 +14,7 @@ export default {
 </script>
 <style scoped>
 .carousel {
-  display: inline-block;
+  float: left;
   width: 38.125rem;
   height: 16.875rem;
 }
