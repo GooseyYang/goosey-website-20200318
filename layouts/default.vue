@@ -27,6 +27,15 @@ ul {
   list-style: none;
 }
 
+a,
+a:link,
+a:visited,
+a:active,
+a:hover {
+  text-decoration: none;
+  color: #999;
+}
+
 .root {
   width: 100%;
   min-width: 1280px;
